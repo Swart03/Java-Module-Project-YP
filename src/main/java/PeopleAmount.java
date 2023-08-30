@@ -14,7 +14,7 @@ int readPeopleAmount(Scanner scanner) {
                 return amount;
             }
         } else {
-            System.out.println("Количпество человек болжно быть введено в виде числа.");
+            System.out.println("Количество человек болжно быть введено в виде числа.");
             scanner.next();
         }
     }
